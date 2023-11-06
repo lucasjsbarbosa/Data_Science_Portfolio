@@ -6,17 +6,17 @@ Este portfólio reúne projetos que demonstram como a ciência de dados pode ser
 
 ### 🏭 Otimização de Linhas de Produção com Redes Neurais
 - **Descrição**: Desenvolvimento de um sistema de visão computacional que utiliza redes neurais convolucionais para detectar e segmentar falhas em peças de uma linha de montagem.
-- **Tecnologias Utilizadas**: TensorFlow, Keras, OpenCV.
+- **Tecnologias Utilizadas**: TensorFlow, Keras, OpenCV, Seaborn, Pandas e etc.
 - [Ver Repositório](https://github.com/lucasjsbarbosa/redes-neuras-reconhecimento-de-falhas-em-pe-as-numa-linha-de-produ-o)
 
 ### 🏥 Deep Learning para Reconhecimento de Doenças Respiratórias através de Raios-X:
 - **Descrição**: Aplicação do modelo de deep learning ResNet50 para análise automática de imagens de raios-X no reconhecimento de doenças respiratórias.
-- **Tecnologias Utilizadas**: PyTorch, Scikit-learn.
+- **Tecnologias Utilizadas**: Tensorflow, Scikit-learn, Numpy e etc.
 - [Ver Repositório](https://github.com/lucasjsbarbosa/reconhecimento-de-doencas-respiratorias-atraves-de-raios-x)
 
 ### 💬 Análise de Sentimentos com GPT e Flask
 - **Descrição**: Criação de uma API web para análise de sentimentos em textos, empregando Flask e a API GPT da OpenAI para fornecer insights em tempo real.
-- **Tecnologias Utilizadas**: Flask, OpenAI API.
+- **Tecnologias Utilizadas**: Flask, OpenAI API e etc.
 - [Ver Repositório](https://github.com/lucasjsbarbosa/analise-de-sentimento-com-python-flask-e-api-da-open-ai)
 
 ### 📊 Retenção de Talentos via Previsão de Churn: 
@@ -26,7 +26,7 @@ Este portfólio reúne projetos que demonstram como a ciência de dados pode ser
 
 ### 🛍️ Segmentação de Clientes para Marketing
 - **Descrição**: Uso de algoritmos de clusterização para segmentar a base de clientes e direcionar estratégias de marketing mais eficazes.
-- **Tecnologias Utilizadas**: Python, Pandas, Scikit-learn.
+- **Tecnologias Utilizadas**: Python, Pandas, Scikit-learn, Power e etc.
 - [Ver Repositório](https://github.com/lucasjsbarbosa/clusterizacao-de-clientes-para-estrategia-de-marketing)
 
 ### 📈 Previsão de Vendas com Prophet
