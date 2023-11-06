@@ -26,7 +26,7 @@ Este portfólio reúne projetos que demonstram como a ciência de dados pode ser
 
 ### 🛍️ Segmentação de Clientes para Marketing
 - **Descrição**: Uso de algoritmos de clusterização para segmentar a base de clientes e direcionar estratégias de marketing mais eficazes.
-- **Tecnologias Utilizadas**: Python, Pandas, Scikit-learn, Power BI e etc.
+- **Tecnologias Utilizadas**: Python, Pandas, Scikit-learn e etc.
 - [Ver Repositório](https://github.com/lucasjsbarbosa/clusterizacao-de-clientes-para-estrategia-de-marketing)
 
 ### 📈 Previsão de Vendas com Prophet
