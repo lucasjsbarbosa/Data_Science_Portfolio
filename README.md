@@ -4,12 +4,12 @@ Este portfólio reúne projetos que demonstram como a ciência de dados pode ser
 
 ## Projetos
 
-### 🏭 Otimização de Produção com Redes Neurais
+### 🏭 Otimização de Linhas de Produção com Redes Neurais
 - **Descrição**: Desenvolvimento de um sistema de visão computacional que utiliza redes neurais convolucionais para detectar e segmentar falhas em peças de uma linha de montagem.
 - **Tecnologias Utilizadas**: TensorFlow, Keras, OpenCV.
-- [Ver Repositório](#)
+- [Ver Repositório](https://github.com/lucasjsbarbosa/redes-neuras-reconhecimento-de-falhas-em-pe-as-numa-linha-de-produ-o)
 
-### 🏥 IA no Diagnóstico de Doenças Respiratórias
+### 🏥 Deep Learning para Reconhecimento de Doenças Respiratórias através de Raios-X:
 - **Descrição**: Aplicação do modelo de deep learning ResNet50 para análise automática de imagens de raios-X no reconhecimento de doenças respiratórias.
 - **Tecnologias Utilizadas**: PyTorch, Scikit-learn.
 - [Ver Repositório](https://github.com/lucasjsbarbosa/reconhecimento-de-doencas-respiratorias-atraves-de-raios-x)
@@ -19,7 +19,7 @@ Este portfólio reúne projetos que demonstram como a ciência de dados pode ser
 - **Tecnologias Utilizadas**: Flask, OpenAI API.
 - [Ver Repositório](https://github.com/lucasjsbarbosa/analise-de-sentimento-com-python-flask-e-api-da-open-ai)
 
-### 📊 Modelagem Preditora de Churn de Funcionários
+### 📊 Retenção de Talentos via Previsão de Churn: 
 - **Descrição**: Modelo preditivo para identificar fatores de rotatividade de funcionários e ajudar no planejamento de retenção no RH.
 - **Tecnologias Utilizadas**: Python, Pandas, scikit-learn.
 - [Ver Repositório](https://github.com/lucasjsbarbosa/previsao-de-churn-de-funcionarios)
@@ -37,8 +37,8 @@ Este portfólio reúne projetos que demonstram como a ciência de dados pode ser
 ## Contato
 Se você tiver alguma dúvida sobre os projetos ou quiser discutir oportunidades de colaboração, não hesite em entrar em contato.
 
-- **LinkedIn**: [Seu LinkedIn](https://github.com/lucasjsbarbosa)
-- **E-mail**: [Seu e-mail](lucasbarbosa_182@hotmail.com)
+- **LinkedIn**: [Lucas Barbosa](https://github.com/lucasjsbarbosa)
+- **E-mail**: [lucasbarbosa_182@hotmail.com](lucasbarbosa_182@hotmail.com)
 
 ## Licença
 Os projetos neste portfólio estão licenciados sob a [MIT License](LICENSE).
