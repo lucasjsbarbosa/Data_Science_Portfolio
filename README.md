@@ -37,7 +37,7 @@ Este portfólio reúne projetos que demonstram como a ciência de dados pode ser
 ## Contato
 Se você tiver alguma dúvida sobre os projetos ou quiser discutir oportunidades de colaboração, não hesite em entrar em contato.
 
-- **LinkedIn**: [Lucas Barbosa](https://github.com/lucasjsbarbosa)
+- **LinkedIn**: [Lucas Barbosa](https://www.linkedin.com/in/lucas-barbosa-a00302167/)
 - **E-mail**: [lucasbarbosa_182@hotmail.com](lucasbarbosa_182@hotmail.com)
 
 ## Licença
