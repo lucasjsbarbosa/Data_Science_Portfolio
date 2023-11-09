@@ -43,3 +43,8 @@ Se você tiver alguma dúvida sobre os projetos ou quiser discutir oportunidades
 ## Licença
 Os projetos neste portfólio estão licenciados sob a [MIT License](LICENSE).
 
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{lucasjsbarbosa}/count.svg" /></p> 
+<br>
+</div>
